@@ -8,6 +8,8 @@
 
 ![D4nilo GitHub stats](https://github-readme-stats.vercel.app/api?username=D4nilo-Rocha&show_icons=true&theme=onedark)
 
+![D4nilo GitHub stats](https://github-readme-stats.vercel.app/api?username=D4nilo-Rocha&hide=contribs,prs)
+
 ## tecnologias que uso no meu dia
 
 <div style="display:inline_block"><br/>
